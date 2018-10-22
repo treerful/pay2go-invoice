@@ -1,0 +1,22 @@
+{
+    "name": "treerful/pay2go-einvoice",
+    "description": "A library of connecting Pay2go's invoice service.",
+    "authors": [
+        {
+            "name": "Yifan Wu",
+            "email": "jameswu1212@gmail.com"
+        },
+        {
+            "name": "Treerful",
+            "email": "service@treerful.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Treerful\\Pay2goInvoice\\": "src"
+        }
+    },
+    "license": "MIT"
+}
