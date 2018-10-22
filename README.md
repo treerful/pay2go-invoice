@@ -1,4 +1,4 @@
-# Pay2go-eInvoice （智付寶 Pay2go 電子發票）
+# pay2go-invoice （智付寶 Pay2go 電子發票）
 A library of connecting Pay2go's invoice service.
 
 ## Getting Started
@@ -205,7 +205,7 @@ $rawResult = $invoice->getRawResult();
 ## Authors
 
 * **Yifan Wu** - *Initial work* - [Github](https://github.com/yfancc20)
-* **Treerful** - *Initial work* - [Github](https://github.com/treerful)
+* **Treerful** - [Github](https://github.com/treerful)
 
 ## Official Reference
 [Pay2go E-Invoice API](https://inv.pay2go.com/Invoice_index/download)
