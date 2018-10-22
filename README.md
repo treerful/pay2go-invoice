@@ -12,7 +12,7 @@ A library of connecting Pay2go's invoice service.
 ## Install
 1. Install from composer:
 ```
-composer require treerful/pay2go-einvoice
+composer require treerful/pay2go-invoice
 ```
 
 2. Copy the config file (2 methods):
